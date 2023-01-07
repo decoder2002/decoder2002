@@ -1,12 +1,10 @@
-
+![logo](https://github.com/decoder2002/decoder2002/blob/main/Full%20Stack%20Developer%20(1).gif)
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decoder2002&label=Profile%20views&color=0e75b6&style=flat" alt="decoder2002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=decoder2002" alt="decoder2002" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amangupta6311" target="blank"><img src="https://img.shields.io/twitter/follow/amangupta6311?logo=twitter&style=for-the-badge" alt="amangupta6311" /></a> </p>
 
